@@ -47,3 +47,11 @@ Customer Voice is designed to collect feedback from customers, but attackers are
 **Then redirects us to the Microsoft phishing page:**  
 
 ![Screenshot 2024-01-31 212050](https://github.com/Wortexz/another-phishing/assets/26935578/78ae8bd1-533d-478c-b662-df21b3fccf49)
+
+# What's behind Cloudflare:   
+
+![Screenshot 2024-01-31 230632](https://github.com/Wortexz/another-phishing/assets/26935578/44ce05ae-c6eb-490a-b8ab-4cfd705d1966)
+
+![Screenshot 2024-01-31 230604](https://github.com/Wortexz/another-phishing/assets/26935578/6fe9d47e-5d61-4cef-b1dd-c2132d5e4bf9)
+
+
